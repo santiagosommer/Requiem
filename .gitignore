@@ -1,0 +1,9 @@
+# Ignore Python bytecode
+*.pyc
+__pycache__/
+
+# Ignore Conda environment
+envs/
+
+# Ignore macOS metadata files
+.DS_Store
